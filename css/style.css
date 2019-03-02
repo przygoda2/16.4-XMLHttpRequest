@@ -1,0 +1,15 @@
+#joke {
+  text-align: center;
+  font-size: 2em;
+  color: #3274f0;
+}
+
+#get-joke {
+  margin-left: 50%;
+  width: 150px;
+  height: 50px;
+  color: white;
+  background-color: #435ef7;
+  font-size: 2em;
+}
+/*# sourceMappingURL=style.css.map */
